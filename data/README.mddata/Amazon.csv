@@ -1,0 +1,13 @@
+## Dataset Information
+
+This project uses an Amazon product dataset (`Amazon.csv`) for analysis.
+
+The dataset is not included in this repository to keep the project lightweight and to respect data usage constraints.
+
+### How to use the dataset
+1. Place `Amazon.csv` inside this folder:
+
+2. Run the notebooks in the `notebooks/` folder.
+
+### Note
+All data cleaning, transformation, and analysis steps are documented in the notebooks and SQL files.
